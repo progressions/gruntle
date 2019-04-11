@@ -1,0 +1,5 @@
+%{
+  "gen_stage": {:hex, :gen_stage, "0.14.1", "9d46723fda072d4f4bb31a102560013f7960f5d80ea44dcb96fd6304ed61e7a4", [:mix], [], "hexpm"},
+  "kafka_ex": {:git, "https://github.com/gerbal/kafka_ex", "20affe36e9e71f0b8bac6991f3a9654cc8749223", [branch: "custom-genconsumer"]},
+  "kafka_ex_gen_stage_consumer": {:git, "https://github.com/gerbal/kafka_ex_gen_stage_consumer", "b171507cd2c9876bf5e3fee6baa177a8f331698c", []},
+}
